@@ -1,4 +1,4 @@
-# ActivateFlows
+# Dataverse Auth Console Shell
 
 This project demonstrates how to activate flows in Microsoft Power Platform's Dataverse using the Dataverse Client.
 
