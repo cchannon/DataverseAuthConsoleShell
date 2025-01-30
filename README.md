@@ -13,7 +13,7 @@ This project demonstrates how to activate flows in Microsoft Power Platform's Da
 
 2. Open the solution in Visual Studio:
     ```sh
-    .\ActivateFlows.sln
+    .\ClientConsole.sln
     ```
 
 3. Configure the `appsettings.json` file with your Dataverse connection details:
@@ -32,13 +32,11 @@ This project demonstrates how to activate flows in Microsoft Power Platform's Da
     
 ## Usage
 
-When you run the application, it will prompt you to list inactive flows, activate them, or exit. Follow the on-screen instructions to manage your flows.
-
-![Demo](demo.gif)
+Do stuff. Make things.
 
 ## Key Files
 
-- **[Program.cs](ActivateFlows/Program.cs)**: Contains the main logic for listing and activating flows.
+- **[Program.cs](ClientConsole/Program.cs)**: Contains the main logic for doing stuff, making things.
 - **[appsettings.json](appsettings.json)**: Configuration file for connection strings (must exist in the active bin).
 
 ## Dependencies
